@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>pl</string>
+	</array>
+	<key>LSBackgroundOnly</key>
+	<false/>
+	<key>CFBundleName</key>
+	<string>Pidgin</string>
+	<key>CFBundleVersion</key>
+	<string>2.13.0</string>
+	<key>CFBundleExecutable</key>
+	<string>Pidgin</string>
+	<key>CFBundleIconFile</key>
+	<string>icon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.agalin.pidgin</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>LSUIElement</key>
+	<false/>
+</dict>
+</plist>
